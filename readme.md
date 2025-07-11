@@ -1,6 +1,5 @@
 # Project Title
-
-![Project Logo](logo_gsv.png)
+<img src="logo_gsv.png" alt="Project Logo" width="200"/>
 
 ## SVI: Se Viene Index.
 
